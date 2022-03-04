@@ -8,7 +8,7 @@ namespace C_Training_Test_01
         {
 
 
-            Console.WriteLine("Max and min values of byte are {0} -- {1}", byte.MaxValue, minByteValue);
+            Console.WriteLine("Max and min values of byte are {0} -- {1}", byte.MaxValue, byte.MinValue);
             Console.WriteLine("Max and min values of short are {0} -- {1}", maxShortValue, minShortValue);
             Console.WriteLine("Max and min values of int are {0} -- {1}", maxIntValue, minIntValue);
             Console.WriteLine("Max and min values of long are {0} -- {1}", maxLongValue, minLongValue);
