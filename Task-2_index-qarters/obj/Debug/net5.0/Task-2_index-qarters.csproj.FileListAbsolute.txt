@@ -1,0 +1,16 @@
+E:\Documents\OneMore\Task-2_index-qarters\bin\Debug\net5.0\Task-2_index-qarters.exe
+E:\Documents\OneMore\Task-2_index-qarters\bin\Debug\net5.0\Task-2_index-qarters.deps.json
+E:\Documents\OneMore\Task-2_index-qarters\bin\Debug\net5.0\Task-2_index-qarters.runtimeconfig.json
+E:\Documents\OneMore\Task-2_index-qarters\bin\Debug\net5.0\Task-2_index-qarters.runtimeconfig.dev.json
+E:\Documents\OneMore\Task-2_index-qarters\bin\Debug\net5.0\Task-2_index-qarters.dll
+E:\Documents\OneMore\Task-2_index-qarters\bin\Debug\net5.0\ref\Task-2_index-qarters.dll
+E:\Documents\OneMore\Task-2_index-qarters\bin\Debug\net5.0\Task-2_index-qarters.pdb
+E:\Documents\OneMore\Task-2_index-qarters\obj\Debug\net5.0\Task-2_index-qarters.csproj.AssemblyReference.cache
+E:\Documents\OneMore\Task-2_index-qarters\obj\Debug\net5.0\Task-2_index-qarters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\OneMore\Task-2_index-qarters\obj\Debug\net5.0\Task-2_index-qarters.AssemblyInfoInputs.cache
+E:\Documents\OneMore\Task-2_index-qarters\obj\Debug\net5.0\Task-2_index-qarters.AssemblyInfo.cs
+E:\Documents\OneMore\Task-2_index-qarters\obj\Debug\net5.0\Task-2_index-qarters.csproj.CoreCompileInputs.cache
+E:\Documents\OneMore\Task-2_index-qarters\obj\Debug\net5.0\Task-2_index-qarters.dll
+E:\Documents\OneMore\Task-2_index-qarters\obj\Debug\net5.0\ref\Task-2_index-qarters.dll
+E:\Documents\OneMore\Task-2_index-qarters\obj\Debug\net5.0\Task-2_index-qarters.pdb
+E:\Documents\OneMore\Task-2_index-qarters\obj\Debug\net5.0\Task-2_index-qarters.genruntimeconfig.cache
